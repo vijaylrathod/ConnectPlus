@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+
+.menu{
+
+    height: 80px;
+    border-bottom: 1px solid #e6f2fb;
+    background: #ffffff;
+    z-index: 997;
+
+}
+.bg-secondary {
+    background-color: #ffffff!important;
+  
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.bg-light {
+    background: #ffffff;
+
+}
+.menu a {
+    color: #000000;
+    text-decoration: none;
+    
+}
+
+.bg-secondary a:hover, a:active {
+    color:#FF2276 !important;
+}
+.bannerArea{
+
+    margin-top: 120px;
+}
+.banner{
+
+    width: 700px;
+}
+.headingColor{
+
+    color: #FF2276;
+}
+.marginHeaderCopy{
+
+    margin-top: 20px;
+}
+.submitbutton{
+
+         color: #fff;
+        background-color: #ff2276;
+        border-color: #ffa5dc;
+   
+}
+
+.clients {
+    background: #f3f9fd;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 50px;
+}
+.section {
+    padding: 60px 0;
+    overflow: hidden;
+    margin-top: 30px;
+}
+.thumbnail{
+
+    width: 100%;
+}
+
+.section-title {
+    text-align: center;
+    padding-bottom: 30px;
+}
+.aboutUS{
+
+   
+    
+        margin-top: 30px;
+   
+}
+.aboutUsSubtitle{
+
+    margin-top: 15px;
+}
+
+.counts .content .count-box i {
+    display: block;
+    font-size: 36px;
+    color: #3498db;
+    float: left;
+}
